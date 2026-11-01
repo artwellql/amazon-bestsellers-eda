@@ -1,12 +1,12 @@
-# Amazon Bestsellers: Data Analysis
+# Amazon Bestsellers
 
 **Overview**
 This project explores a dataset of Amazon's Top 50 bestselling books to analyze pricing strategies and genre popularity. 
 
 **Tech Stack**
 * Python
-* Pandas (Data manipulation)
-* Matplotlib & Seaborn (Data visualization)
+* Pandas
+* Matplotlib & Seaborn 
 
 **Main Findings**
 * **Genre Trends:** Non-Fiction books dominate the Top 50 and show a growing trend over recent years.
